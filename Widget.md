@@ -1643,3 +1643,6 @@ And this project is not using the image file!
 [https://github.com/patrickfav/Dali](https://github.com/patrickfav/Dali)
 1. **cameraview**  CameraView aims to help Android developers easily integrate Camera features.     
 [https://github.com/google/cameraview](https://github.com/google/cameraview)
+1. How to reduce your development and support costs:
+- [Own offshore development center](https://spd.group/tech-for-businesses/offshore-development-center/)
+- [Distributed software development](https://spd.group/tech-for-businesses/distributed-software-development-team/)
